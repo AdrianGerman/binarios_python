@@ -11,4 +11,4 @@ binario2 = input("Ingrese el segundo número binario => ")
 
 resultado = milti_binaria(binario1, binario2)
 
-print(f"La suma de {binario1} y {binario2} es: {resultado}")
+print(f"La multiplicación de {binario1} y {binario2} es: {resultado}")
